@@ -1,7 +1,7 @@
 appnope==0.1.2
 asttokens==2.0.5
 backcall==0.2.0
-numpy==1.22.2
+numpy==1.21.6
 opencv==4.5.0
 openh264==2.1.1
 openssl==1.1.1n
